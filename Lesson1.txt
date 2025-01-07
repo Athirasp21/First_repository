@@ -1,0 +1,9 @@
+Important git commands:
+	git init --> to initialize git repository
+	git add ---> command to add files in the current directory to stagging area
+	git status---> Shows the status of files (whether or not tracked)
+	git commit --> Commit the file to the repository
+	git commit -m ---> -m indicates message (by convenient rule, use present tense to denote the message)
+	git diff --> Indicates the differences in the current version and committed version
+	git checkout--> Roll back from current version to a safe state(from git repository)
+
