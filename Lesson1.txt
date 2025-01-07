@@ -6,4 +6,6 @@ Important git commands:
 	git commit -m ---> -m indicates message (by convenient rule, use present tense to denote the message)
 	git diff --> Indicates the differences in the current version and committed version
 	git checkout--> Roll back from current version to a safe state(from git repository)
+	git remote add origin url -->Linking local repository to Remote repository
+	git push -u origin HEAD:main --> Pushing contents to remote repository
 
